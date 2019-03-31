@@ -30,8 +30,6 @@ body{
 main {
     position: relative;
     padding: 25px 5%;
-    height: 100%;
-    width: 100%;
 }
 
 main h1 {
