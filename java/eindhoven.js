@@ -60,7 +60,7 @@ function onAPISuccesEindhoven(response) {
     
     var uitspraakE = document.getElementsByClassName('uitspraakE')[0];
     
-    if (degC >= 9) {
+    if (degC >= 5) {
         $('#eindhoven').css({
             "border-color": "green",
             "border-width": "2px",

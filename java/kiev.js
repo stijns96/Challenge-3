@@ -60,7 +60,7 @@ function onAPISuccesAmsterdam(response) {
     
     var uitspraakA = document.getElementsByClassName('uitspraakA')[0];
     
-    if (degC >= 9) {
+    if (degC >= 5) {
         $('#amsterdam').css({
             "border-color": "green",
             "border-width": "2px",
